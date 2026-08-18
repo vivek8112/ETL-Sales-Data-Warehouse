@@ -1,0 +1,6 @@
+TABLE / COLUMN SUMMARY
+
+DimCustomer: CustomerKey (surrogate key), CustomerID, CustomerName, Email, City, State, EffectiveDate, ExpiryDate, IsCurrent
+DimProduct: ProductKey (surrogate key), ProductID, ProductName, Category, UnitPrice, EffectiveDate, ExpiryDate, IsCurrent
+DimDate: DateKey, FullDate, CalendarYear, CalendarMonth, MonthName, QuarterNo, DayOfMonth, DayName
+FactSales: SalesKey, SalesID, DateKey, CustomerKey, ProductKey, Quantity, SalesAmount, LoadDate

@@ -1,0 +1,7 @@
+ProductID,ProductName,Category,UnitPrice,CreatedDate
+101,Laptop,Electronics,55000,2025-01-01
+102,Wireless Mouse,Electronics,1200,2025-01-01
+103,Office Chair,Furniture,8500,2025-01-01
+104,Desk,Furniture,12000,2025-01-01
+105,Notebook,Stationery,250,2025-01-01
+106,Keyboard,Electronics,2500,2025-01-01

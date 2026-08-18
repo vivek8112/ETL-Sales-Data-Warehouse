@@ -1,0 +1,9 @@
+SALES DATA WAREHOUSE & ETL PIPELINE
+Tools: SQL Server, SSIS, T-SQL, CSV, SSMS
+
+• Developed an ETL pipeline using SSIS to extract customer, product and sales data from CSV source files and load them into SQL Server staging tables.
+• Designed a dimensional data warehouse using Fact and Dimension tables following a Star Schema.
+• Implemented data validation, Lookup, Data Conversion, Conditional Split and staging processes within SSIS.
+• Implemented SCD Type 2 logic to maintain historical changes in customer and product dimensions.
+• Created T-SQL procedures/scripts for dimension and fact loading, duplicate prevention and data validation.
+• Performed ETL testing by reconciling source and target row counts, validating totals and checking for duplicate/orphan records.
